@@ -2,3 +2,7 @@
 __pycache__/
 roastme6k/
 tmp/
+glove.6B/
+praw.ini
+data/*.json
+data/*.pickle
