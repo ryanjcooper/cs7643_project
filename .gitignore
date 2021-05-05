@@ -6,3 +6,4 @@ glove.6B/
 praw.ini
 data/*.json
 data/*.pickle
+src/webserver
